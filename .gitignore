@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyd
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# SQLite database (если хочешь игнорировать локальные тикеты)
+*.db
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code config
+.vscode/
+
+# PyCharm config
+.idea/
+
+# Secret config files
+config.py
+.env
+
+# System files
+.DS_Store
+Thumbs.db
